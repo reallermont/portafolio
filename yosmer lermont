@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UFT-8">
+    <meta name="iewnport" content="width=device-width, initial-scale=1.8">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/12b0087ee5.js" crossorigin="anonymous"></script>
+    <title>portafolio</title>
+</head>
+<body>
+    <header>
+        <h2 class="logo"><span>Y</span>osmer.</h2>
+
+    <nav class="navegacion">
+        <a href="#inicio">inicio</a>
+        <a href="#sobremi">sobre mi</a>
+        <a href="#experienciaacademica">experiencia academica</a>
+        <a href="#programacion">programacion</a>
+    </nav>
+
+     <a class="is-active">#inicio</a>
+
+     <a class="is-active">#sobremi</a>
+
+
+    <a href="#"class="btn-present">hablemos</a>
+</header>
+
+
+
+<section class="inicio">
+    
+    <div class="contenido">
+        <h2>hola, soy<span>Yosmer Code</span></h2>
+        <h4>Fronted Developer</h4>
+        <p>hola Bienvendido a mi pagina</p>
+
+        <div class="bnt-grupo">
+            <a href="#">Contactame</a>
+            <a href="#">ver proyectos</a>
+        </div>
+
+        <div class="iconos-redes">
+            <a href="https://x.com/reallermont/"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.instagram.com/reallermont/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.tiktok.com/@reallermont?_t=8mXz3iLsTLS&_r=1"><i class="fa-brands fa-tiktok"></i></a>
+        </div>
+    </div>
+   </section>
+</body>
+</html>
